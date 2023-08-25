@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "885203872238",
+    "firebase_url": "https://morning-august-default-rtdb.firebaseio.com",
+    "project_id": "morning-august",
+    "storage_bucket": "morning-august.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885203872238:android:5e7abed5c8ba78129b06ff",
+        "android_client_info": {
+          "package_name": "com.example.augustmorningnavigation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "885203872238-lht0usb4q5ofb0s3jgr0hv58kadpiuf6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtG2FEp43jFbI2O6lL8tri_qPP_j1mccM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "885203872238-lht0usb4q5ofb0s3jgr0hv58kadpiuf6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
